@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Prestmit Technical Test
 
-First, run the development server:
+This project aims to assess proficiency in front-end development and problem-solving.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Deployment
+
+This project has been deployed on Google Cloud Platform using Cloud Run. The link has been shared below.
+
+```link
+https://prestmit-tech-test-glo7ulthta-nw.a.run.app
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Authors
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [@cmyweb27](https://github.com/cmyweb27/prestmit_tech_test)
+- Charles Essien
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+**Client:** NextJs, material-UI, TailwindCSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Server:** NodeJs, Google Cloud Run, AWS(For hosting Photo Assets)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://prestmit-tech-test-glo7ulthta-nw.a.run.app
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/cmyweb27/prestmit_tech_test.git
+```
+
+Go to the project directory
+
+```bash
+  cd prestmit_tech_test
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Screenshots
+
+![App Screenshot](https://prestmit-tech-test.s3.eu-west-1.amazonaws.com/prestmit_homepage-img1.png)
+
+
+![App Screenshot](https://prestmit-tech-test.s3.eu-west-1.amazonaws.com/prestmit_homepage-img2.png)
+
+
+## Documentation
+
+Proper Documentation has not been done because I have assumed it is a throwaway project and will be used only as a test.
+
+
+## Appendix
+
+A link to the file that contains the folder layout.
+
